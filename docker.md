@@ -2,14 +2,9 @@
 
 This cheatsheet for docker provides some common docker commands, plus links to various online resources.   
 
-### Docs
-https://docs.docker.com/
-
-### Install
-https://docs.docker.com/get-docker/
-
-### Help
-```docker help```
+* Docs - https://docs.docker.com/
+* Install - https://docs.docker.com/get-docker/
+* Help - ```docker help```
 
 ## Working with containers
 
@@ -80,10 +75,8 @@ or
 
 ```docker pull busybox:latest```
 
+## Working with registries
 
-
-## Working with registries
-
-Docker Hub - https://hub.docker.com
-Amazon Elastic Container Registry - https://aws.amazon.com/ecr/
+* Docker Hub - https://hub.docker.com
+* Amazon Elastic Container Registry - https://aws.amazon.com/ecr/
 
